@@ -1,0 +1,14 @@
+C:\src\drsoft\RedRoverK12\CodePuzzle\bin\Debug\net8.0\CodePuzzle.exe
+C:\src\drsoft\RedRoverK12\CodePuzzle\bin\Debug\net8.0\CodePuzzle.deps.json
+C:\src\drsoft\RedRoverK12\CodePuzzle\bin\Debug\net8.0\CodePuzzle.runtimeconfig.json
+C:\src\drsoft\RedRoverK12\CodePuzzle\bin\Debug\net8.0\CodePuzzle.dll
+C:\src\drsoft\RedRoverK12\CodePuzzle\bin\Debug\net8.0\CodePuzzle.pdb
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.AssemblyInfoInputs.cache
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.AssemblyInfo.cs
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.csproj.CoreCompileInputs.cache
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.dll
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\refint\CodePuzzle.dll
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.pdb
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\CodePuzzle.genruntimeconfig.cache
+C:\src\drsoft\RedRoverK12\CodePuzzle\obj\Debug\net8.0\ref\CodePuzzle.dll
